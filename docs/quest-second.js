@@ -11,7 +11,7 @@ window.quests.push(
             alt: 'Фото Санты'
           },
           {
-            type: 'text',
+            type: 'header',
             text: 'Идём дальше!'
           }
         ]
@@ -65,7 +65,7 @@ window.quests.push(
             alt: 'Фото Санты'
           },
           {
-            type: 'text',
+            type: 'header',
             text: 'Попробуй ещё раз!'
           }
         ]

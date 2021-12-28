@@ -272,7 +272,7 @@ function getPages() {
               },
               {
                 type: 'text',
-                text: 'Твой Санта'
+                text: 'Твой Санта!'
               }
             ]
           }

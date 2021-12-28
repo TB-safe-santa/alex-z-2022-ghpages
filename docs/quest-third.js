@@ -11,8 +11,8 @@ window.quests.push(
             alt: 'Фото Санты'
           },
           {
-            type: 'text',
-            text: 'Последняя загадка!'
+            type: 'header',
+            text: 'Последняя загадка! Мы почти у цели!'
           }
         ]
       },
@@ -56,7 +56,7 @@ window.quests.push(
             alt: 'Фото Санты'
           },
           {
-            type: 'text',
+            type: 'header',
             text: 'Попробуй ещё раз!'
           }
         ]
